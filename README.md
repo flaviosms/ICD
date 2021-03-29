@@ -4,3 +4,5 @@ Este repositório foi feito para gerenciar os arquivos feitos durante a discipli
 ## 1 Python Listas
 
 ## 2 Python Random
+
+## 3 Python Numpy
